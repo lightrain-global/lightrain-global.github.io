@@ -73,3 +73,6 @@ pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
+bidease.com, exchange-20, RESELLER
+google.com, pub-5403207668696958, RESELLER
+admixplay.com, 2012, RESELLER

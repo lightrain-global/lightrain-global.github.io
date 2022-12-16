@@ -1,3 +1,7 @@
+pangleglobal.com, Account ID, DIRECT
+
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
 xandr.com, 7353, RESELLER, f5ab79cb980f11d1
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 xandr.com, 13297, RESELLER, f5ab79cb980f11d1

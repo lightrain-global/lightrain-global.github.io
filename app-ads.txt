@@ -1,6 +1,6 @@
 pangleglobal.com, Account ID, DIRECT
 advlion.com, 3054, RESELLER
-
+google.com, pub-6982475368074257, DIRECT, f08c47fec0942fa0
 advlion.com, 3083, RESELLER
 
 advlion.com, 3108, RESELLER

@@ -6,6 +6,7 @@ advlion.com, 3083, RESELLER
 adsyield.com, 1233, DIRECT
 premiumads.net, 20668, DIRECT
 premiumads.com.br, 20668, DIRECT
+yandex.com, 103842965, DIRECT
 inmobi.com, 30eb9116886a497db0c502e8cf0aa4d3, RESELLER, 83e75a7ae333ca9d
 thunder-monetize.com, 2297825074, RESELLER
 thunder-monetize.com, 3692155372, RESELLER

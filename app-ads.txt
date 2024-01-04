@@ -2,6 +2,11 @@ pangleglobal.com, Account ID, DIRECT
 advlion.com, 3054, RESELLER
 google.com, pub-6982475368074257, DIRECT, f08c47fec0942fa0
 advlion.com, 3083, RESELLER
+greedygame.com, 3055722897079350, DIRECT
+google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
+google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
+pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162539, RESELLER, 5d62403b186f2ace
 152media.info, 152M324, RESELLER
 adsyield.com, 1233, DIRECT
 premiumads.net, 20668, DIRECT

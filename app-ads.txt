@@ -1,6 +1,7 @@
 pangleglobal.com, Account ID, DIRECT
 advlion.com, 3054, RESELLER
 google.com, pub-6982475368074257, DIRECT, f08c47fec0942fa0
+facebook.com, 264563168380585, DIRECT, c3e20eee3f780d68
 advlion.com, 3083, RESELLER
 greedygame.com, 3055722897079350, DIRECT
 google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0

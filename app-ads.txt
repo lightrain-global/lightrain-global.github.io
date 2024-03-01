@@ -36,6 +36,7 @@ outbrain.com, 00a7a621155a60e5a12298c11790e00a60, RESELLER
 outbrain.com, 00a430207667d7e0bf85298574b25379cf, RESELLER
 appnexus.com, 13058, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13898, RESELLER, f5ab79cb980f11d1
+google.com, pub-9296372483561531, DIRECT, f08c47fec0942fa0
 appnexus.com, 14023, RESELLER, f5ab79cb980f11d1
 conversantmedia.com, 100394, RESELLER, 03113cd04947736d
 conversantmedia.com, 100374, RESELLER, 03113cd04947736d

@@ -2,6 +2,8 @@ google.com, pub-7171269809080077, DIRECT, f08c47fec0942fa0
 applovin.com, 63c7df7a6c8336926a069294809f25f0, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
+start.io, 115550145, DIRECT
+themediagrid.com, 6XGFYQ, DIRECT, 35d5010d7789b49d
 gamaigroup.com, 423056, RESELLER
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11424, RESELLER, 6c8d5f95897a5a3b
